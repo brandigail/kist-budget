@@ -2,7 +2,7 @@
 
 An offline-first household budget app. Set monthly limits per category, log expenses with a big numeric keypad, watch spent versus budget, and track savings goals. Everything lives on the device, so it works with no signal and installs like a native app.
 
-**Live demo:** TBD (built and tested locally, not yet deployed)
+**Live demo:** https://kist-budget.netlify.app
 
 ![Dashboard on a phone](docs/screenshots/dashboard-mobile.png)
 
